@@ -1,0 +1,11 @@
+.myclass{
+  color:brown;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.active{
+  font-weight: bold;
+  color:brown ! important;
+  border-bottom: 2px solid brown;
+}
